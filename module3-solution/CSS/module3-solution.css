@@ -1,0 +1,33 @@
+#header-nav{
+    background-color: coral;
+}
+
+nav a{
+    color: black;
+    
+}
+nav a:hover{
+    text-decoration: none;
+}
+#navbarSupportedContent {
+    background-color: white;
+   text-align: center;
+    
+    
+}
+#navbarSupportedContent a{
+    border: 1px solid black;
+    color: black;
+    font-weight: 500;
+    
+}
+section{
+    background-color: darkgrey;
+}
+section a{
+    color: blue;
+    text-decoration: underline;
+}
+section a:hover{
+    text-decoration: none;
+}
